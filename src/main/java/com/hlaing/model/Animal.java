@@ -1,4 +1,4 @@
-package com.hlaing.springbootProfiles.service;
+package com.hlaing.model;
 
 public interface Animal {
 	String getMessage();
